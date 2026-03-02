@@ -1,0 +1,15 @@
+{
+  "id": "ubersicht-pdf-tool",
+  "name": "pdfcreator",
+  "description": "Drag & drop PDFs and images, reorder, merge, and download.",
+  "author": "devnmoor",
+  "version": "1.0.0",
+  "type": "widget",
+
+  "width": 860,
+  "height": 700,
+
+  "refreshFrequency": false,
+
+  "background": "transparent"
+}
