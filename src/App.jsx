@@ -78,7 +78,7 @@ export default function App() {
     <div className="ub-wrap">
       <div className="ub-panel">
         <div className="ub-title">
-          <span style={{ color: "var(--accent)" }}>ubersicht</span>
+          <span style={{ color: "var(--accent)" }}>pdfcreator</span>
           <span className="ub-dot" />
         </div>
         <p className="ub-sub">Drop PDFs + images • drag to reorder • download merged PDF</p>
